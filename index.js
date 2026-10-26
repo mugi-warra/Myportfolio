@@ -3,11 +3,11 @@ const CONFIG = {
   availability: "Open to Opportunities",              // hero badge text
   email:        "mobongjubola@example.com",             // used for the mailto link
   emailSubject: "Hello Jamaldeen",
-  github:       "https://github.com/your-username",
+  github:       "https://github.com/mugi-warra",
   linkedin:     "https://www.linkedin.com/in/your-profile",
   x:            "",                                   // leave empty to hide the X link
-  choplyLive:   "#", choplyCode:   "#",               // replace "#" with real URLs
-  doctorsLive:  "#", doctorsCode:  "#"
+  choplyLive:   "choply.name.ng", choplyCode:   "#",               // replace "#" with real URLs
+  doctorsLive:  "https://presentfilmmayor.pythonanywhere.com/", doctorsCode:  "#"
 };
 /* ==================================== */
 
