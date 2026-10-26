@@ -6,7 +6,7 @@ const CONFIG = {
   github:       "https://github.com/mugi-warra",
   linkedin:     "https://www.linkedin.com/in/your-profile",
   x:            "",                                   // leave empty to hide the X link
-  choplyLive:   "choply.name.ng", choplyCode:   "#",               // replace "#" with real URLs
+  choplyLive:   "https://choply.name.ng", choplyCode:   "#",               // replace "#" with real URLs
   doctorsLive:  "https://presentfilmmayor.pythonanywhere.com/", doctorsCode:  "#"
 };
 /* ==================================== */
